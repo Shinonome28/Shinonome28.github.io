@@ -953,12 +953,12 @@ about:
   banner_mask_alpha: 0.3
   avatar: /img/avatar.png
   name: "東雲夕方"
-  intro: "プログラマ一人"
+  intro: "May be a Scientist"
   # 更多图标可从 https://hexo.fluid-dev.com/docs/icon/ 查找，`class` 代表图标的 css class，添加 `qrcode` 后，图标不再是链接而是悬浮二维码
   # More icons can be found from https://hexo.fluid-dev.com/docs/en/icon/  `class` is the css class of the icon. If adding `qrcode`, The icon is no longer a link, but a hovering QR code
   icons:
     - { class: "iconfont icon-github-fill", link: "https://github.com/Shinonome28", tip: "GitHub" }
-    - { class: "iconfont icon-email", link: "mailto://shinonome89@outlook.com", tip: "email" }
+    - { class: "iconfont icon-mail", link: "mailto://shinonome89@outlook.com", tip: "Email Me" }
 
 
 #---------------------------
