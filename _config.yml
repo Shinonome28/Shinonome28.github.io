@@ -5,20 +5,18 @@
 # Site
 title: Shinonome's Site
 subtitle: "東雲夕方の記事であり"
-description: "Maybe a Scientist's Blog. About Physics, Math, Numeric Simulation and Language Learning."
+description: "随便写写"
 keywords:
-  - Game Development
-  - Computer Graphics
-  - CG
-  - C#
-  - CSharp
+  - Physics
+  - Math
+  - Scientific Computation
   - C++
-  - CPP
-  - Unity
-  - Unreal
-  - Physics Simulation
+  - Python
+  - Qt
+  - Mathematica
+  - LaTex
 author: Yuugata Shinonome
-language: en
+language: zh-CN
 timezone: "Asia/Shanghai"
 
 # URL
